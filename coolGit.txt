@@ -1,0 +1,2 @@
+git push <remote-name> <local-branch-name>:<remote-branch-name>
+From master, we push branch2 to dev3 in remote: $ git push origin branch2:dev3
